@@ -1,4 +1,4 @@
-
+# 20230224
 #v1:use to generate sinewave 16bit only
 
 import numpy;
